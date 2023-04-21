@@ -60,8 +60,8 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.github.DavidTomas14'
-                artifactId = 'Archetype'
-                version = '1.0.0'
+                artifactId = 'fundaments'
+                version = '1.0.3'
             }
         }
     }
