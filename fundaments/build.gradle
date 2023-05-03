@@ -48,7 +48,6 @@ dependencies {
     // Agrega las dependencias de Navigation
     implementation "androidx.navigation:navigation-fragment-ktx:2.5.3"
     implementation "androidx.navigation:navigation-ui-ktx:2.5.3"
-    implementation 'com.github.DavidTomas14:PruebaLibreria:Tag'
 }
 
 afterEvaluate {
@@ -61,8 +60,7 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.github.DavidTomas14'
-                artifactId = 'fundaments'
-                version = '1.0.3'
+                artifactId = 'PruebaLibreria'
             }
         }
     }
